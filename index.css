@@ -66,6 +66,10 @@ input[type="number"] {
     font-weight: bold;
 }
 
+.perPerson {
+    font-weight: bold;
+}
+
 .range {
     -webkit-appearance: none;
     width: 100%;
